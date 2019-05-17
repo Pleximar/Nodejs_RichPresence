@@ -1,2 +1,3 @@
+cd ..
 npm i
 pause
