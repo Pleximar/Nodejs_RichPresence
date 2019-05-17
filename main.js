@@ -1,4 +1,3 @@
-
 //======================================================
 //
 // Copyright © Pleximar - 2019
@@ -9,7 +8,7 @@
 
 
 const Discord = require("discord-rpc")
-const settings = require("./settings.json")
+const settings = require("./config/settings.json")
 
 const startTimestamp = new Date()
 
@@ -74,4 +73,4 @@ rpc.on("ready", () => {
 }
 })
 
-rpc.login(ID).catch(console.error)
+rpc.login(ID).catch(console.error) 
