@@ -9,7 +9,7 @@
 
 
 const Discord = require("discord-rpc")
-const settings = require("./config/settings.json")
+const settings = require("./settings.json")
 
 const startTimestamp = new Date()
 
