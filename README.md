@@ -17,6 +17,5 @@ Nodejs_RichPresence is an opensource Nodejs script wich alows you to make you ow
     "LargeText": "https://code.discord.id", //Large image text(hover)
     "SmallText": "github.com/pleximar", //Small image text(hover)
     "Time": false //Show timestamp
-}
 ```
 5. Start it with start.bat
