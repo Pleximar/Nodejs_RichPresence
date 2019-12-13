@@ -11,6 +11,6 @@
     "discord-rpc": "^3.0.0-beta.12",
     "discord.js": "^11.3.2",
     "fs": "0.0.1-security",
-    "npm": "^6.1.0"
+    "npm": "^6.13.4"
   }
 }
